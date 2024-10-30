@@ -15,6 +15,7 @@
       "resources": "{{[type]}}-{{[id]}}-resources.html",
       "template-format": ""
     },
+    
     "Questionnaire": {
       "template-base": "template/layouts/layout-questionnaire.html",
       "template-form": "template/layouts/layout-questionnaire-form.html",
